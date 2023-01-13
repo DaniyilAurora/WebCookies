@@ -1,3 +1,3 @@
 # WebCookies
  
-WebCookies - is just a code to use cookies.
+WebCookies - is just a code to create cookies, and get them.
